@@ -17,3 +17,13 @@ video{
 	background-color: rgb(255, 255, 255);
 	padding:border-radius;
 }
+.po{
+	background-color: rgb(255, 255, 255);
+	padding:4px;
+	border-radius:2px;
+}
+.pt{
+	background-color: rgb(255, 255, 255);
+	padding:4px;
+	border-radius:2px;
+}

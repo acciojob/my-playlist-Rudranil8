@@ -17,12 +17,12 @@ video{
 	background-color: rgb(255, 255, 255);
 	padding:border-radius;
 }
-.po{
+.player_one{
 	background-color: rgb(255, 255, 255);
 	padding:4px;
 	border-radius:2px;
 }
-.pt{
+.player_two{
 	background-color: rgb(255, 255, 255);
 	padding:4px;
 	border-radius:2px;
